@@ -1,0 +1,89 @@
+{
+    
+    "34r80FSFBN5R" :
+        {
+        "name" : "sathiyajith",
+        "Branch" : "Computer",
+        "Room number" : 301,
+        "Hostel" : "A4"   
+        }
+    ,
+
+    "866FVBKJZVF1" :
+        {
+        "name" : "Bhushan",
+        "Branch" : "Mechatronics",
+        "Room number" : 302,
+        "Hostel" : "A5"   
+        }
+    ,
+        
+    "jkl4354jkh" :
+        {
+        "name" : "Shreyas",
+        "Branch" : "IT",
+        "Room number" : 303,
+        "Hostel" : "A2"   
+        }
+    ,    
+    "MXK354KDC" :
+        {
+        "name" : "Sachin",
+        "Branch" : "IT",
+        "Room number" : 205,
+        "Hostel" : "A3"   
+        }
+    ,
+        
+    "LKSD986SD" :
+        {
+        "name" : "Samarth",
+        "Branch" : "Civil",
+        "Room number" : 165,
+        "Hostel" : "A4"   
+        }
+    ,
+    "LAPW5322DEF" :
+        {
+        "name" : "Shekhar",
+        "Branch" : "ECE",
+        "Room number" : 301,
+        "Hostel" : "A2"   
+        }
+    ,
+
+        
+    "MLAOQ86726" :
+        {
+        "name" : "Chinmay",
+        "Branch" : "Mechatronics",
+        "Room number" : 315,
+        "Hostel" : "A5"   
+        }
+    ,
+        
+    "MALQO563LK" :
+        {
+        "name" : "Om",
+        "Branch" : "Computer",
+        "Room number" : 202,
+        "Hostel" : "A1"   
+        }
+    ,    
+    "ASDWRE6781" :
+        {
+        "name" : "Viraj",
+        "Branch" : "IT",
+        "Room number" : 222,
+        "Hostel" : "A4"   
+        }
+    ,
+        
+    "DMOPA87564" :
+        {
+        "name" : "Kiran",
+        "Branch" : "Mechanical",
+        "Room number" : 123,
+        "Hostel" : "A2"   
+        }
+}
